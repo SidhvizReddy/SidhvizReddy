@@ -4,7 +4,7 @@
 
 ### CSE Student • Developer • Video Editor
 
-Building things, learning things, and occasionally breaking things.
+Building things, learning things, and mostly breaking things 😭
 
 <br>
 
